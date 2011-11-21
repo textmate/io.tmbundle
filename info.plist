@@ -6,10 +6,6 @@
 	<string>evk.ebo@tznvy.pbz</string>
 	<key>contactName</key>
 	<string>Rob Rix</string>
-	<key>deleted</key>
-	<array>
-		<string>937C187C-75F2-42F7-9AB8-972CBB9BABF5</string>
-	</array>
 	<key>description</key>
 	<string>Support for the &lt;a href="http://www.iolanguage.com/"&gt;Io&lt;/a&gt; prototype-based programming language.</string>
 	<key>mainMenu</key>
@@ -20,7 +16,7 @@
 		</array>
 		<key>items</key>
 		<array>
-			<string>937C187C-75F2-42F7-9AB8-972CBB9BABF5</string>
+			<string>F35C936A-92CD-4D36-925D-F4457A52BCEE</string>
 			<string>------------------------------------</string>
 			<string>D55B718A-71A6-41A0-98ED-07B72442DDE8</string>
 			<string>------------------------------------</string>
