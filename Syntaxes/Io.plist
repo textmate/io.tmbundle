@@ -6,10 +6,6 @@
 	<array>
 		<string>io</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(/\*\*|\([^\)]*$|if\()</string>
-	<key>foldingStopMarker</key>
-	<string>(\*\*/|^\s*\))</string>
 	<key>keyEquivalent</key>
 	<string>^~I</string>
 	<key>name</key>
