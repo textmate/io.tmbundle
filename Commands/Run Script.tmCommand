@@ -16,15 +16,37 @@ TextMate::Executor.run(ENV["TM_IO"] || "io", ENV["TM_FILEPATH"], :version_args =
 </string>
 	<key>input</key>
 	<string>document</string>
+	<key>inputFormat</key>
+	<string>text</string>
 	<key>keyEquivalent</key>
 	<string>@r</string>
 	<key>name</key>
 	<string>Run Script</string>
-	<key>output</key>
-	<string>showAsHTML</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>html</string>
+	<key>outputLocation</key>
+	<string>newWindow</string>
+	<key>requiredCommands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>io</string>
+			<key>locations</key>
+			<array>
+				<string>/opt/local/bin/io</string>
+				<string>/usr/local/bin/io</string>
+			</array>
+			<key>variable</key>
+			<string>TM_IO</string>
+		</dict>
+	</array>
 	<key>scope</key>
 	<string>source.io</string>
 	<key>uuid</key>
 	<string>F35C936A-92CD-4D36-925D-F4457A52BCEE</string>
+	<key>version</key>
+	<integer>2</integer>
 </dict>
 </plist>
