@@ -44,6 +44,8 @@ TextMate::Executor.run(ENV["TM_IO"] || "io", ENV["TM_FILEPATH"], :version_args =
 	</array>
 	<key>scope</key>
 	<string>source.io</string>
+	<key>semanticClass</key>
+	<string>process.run.script.io</string>
 	<key>uuid</key>
 	<string>F35C936A-92CD-4D36-925D-F4457A52BCEE</string>
 	<key>version</key>
